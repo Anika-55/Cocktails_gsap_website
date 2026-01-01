@@ -1,16 +1,57 @@
-# React + Vite
+🍹 Cocktail Website UI
+A modern, responsive, and interactive cocktail website UI built with React, JavaScript, GSAP, and TailwindCSS.
+This project demonstrates smooth animations, dynamic components, and a clean UI design,
+making it perfect for inspiration, portfolio showcase, or further development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Demo
+Live Demo Link : https://serene-fenglisu-9a621a.netlify.app
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* React – For building reusable UI components and state management
 
-## React Compiler
+* JavaScript (ES6+) – Dynamic interactivity and logic
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* GSAP – Smooth, performant animations
 
-## Expanding the ESLint configuration
+* TailwindCSS – Utility-first CSS framework for responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*HTML5 & CSS3 – Core structure and styling
+
+🎨 Features
+
+* Fully responsive layout for all screen sizes
+
+* Animated hero section and interactive elements using GSAP
+
+* Filterable or categorized cocktail cards
+
+* Smooth hover effects and transitions
+
+* Modern UI/UX design with focus on user engagement
+
+
+🚀 Installation
+
+Clone the repository: https://github.com/Anika-55/Cocktails_gsap_website
+
+
+📚 Learnings / Key Takeaways
+
+* Building responsive layouts with TailwindCSS
+
+* Integrating GSAP animations in React components
+
+* Structuring a component-based UI for scalability
+
+* Managing state and props efficiently in React
+
+
+
+
+
+
+
+
+
+
